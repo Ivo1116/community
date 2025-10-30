@@ -95,6 +95,8 @@ areas:
     github: plamen-bardarov
   - name: Ramon Makkelie
     github: ramonskie
+  - name: Ivo Radkov
+    github: ivo9999
   reviewers:
   - name: Wayne E. Seguin
     github: wayneeseguin
